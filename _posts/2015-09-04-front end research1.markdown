@@ -16,15 +16,15 @@ categories: jekyll update
   * git：Git是一款免费、开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目
   * GitHub Pages：你的项目的网站，可以在上面写博客
   * jekyll：将纯文本转化为静态网站和博客
-  * markdown：将纯文本转化为静态网站和博客（[Setext](http://docutils.sourceforge.net/mirror/setext.html)、[atx](http://www.aaronsw.com/2002/atx/)、[Textile](http://textism.com/tools/textile/)、[reStructuredText](http://docutils.sourceforge.net/rst.html)、[Grutatext](http://www.triptico.com/software/grutatxt.html) 和 [EtText](http://ettext.taint.org/doc/)）
+  * markdown：Markdown是一种可以使用普通文本编辑器编写的标记语言，通过类似HTML的标记语法，它可以使普通文本内容具有一定的格式。（[Setext](http://docutils.sourceforge.net/mirror/setext.html)、[atx](http://www.aaronsw.com/2002/atx/)、[Textile](http://textism.com/tools/textile/)、[reStructuredText](http://docutils.sourceforge.net/rst.html)、[Grutatext](http://www.triptico.com/software/grutatxt.html) 和 [EtText](http://ettext.taint.org/doc/)）
   * Redcarpet： A fast, safe and extensible Markdown to (X)HTML parser
   * Textile：Textile是一个人性化的Web文本生成器，以简洁的方式提供HTML标签功能。
   * Liquid：Liquid is an open-source, Ruby-based template language created by Shopify. It is the backbone of Shopify themes and is used to load dynamic content on storefronts
-  * YAML：Yet Another Markup Language 另外的一种标记语言
+  * YAML：YAML Ain't Markup Language yaml不是一种标记语言
 
 * 前端开发用到的一些工具
   * Sublime Text 3
   * WebStorm
-  
+
 
 
