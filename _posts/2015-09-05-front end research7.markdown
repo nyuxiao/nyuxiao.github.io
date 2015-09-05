@@ -6,8 +6,10 @@ categories: jekyll update
 ---
 
 github Pages可以被认为是用户编写的、托管在github上的静态网页。  
- 	https://help.github.com/categories/github-pages-basics/  
- github Pages允许使用html和Jekyll进行编写  
+
+教程参考：[GitHub Pages Basics - User Documentation](https://help.github.com/categories/github-pages-basics/ )
+
+github Pages允许使用html和Jekyll进行编写  
 
 
 
