@@ -25,6 +25,11 @@ categories: jekyll update
 * 前端开发用到的一些工具
   * Sublime Text 3
   * WebStorm
+  * Atom
+  * Brackets 
+  * CodeKit (前端开发神器，不过只支持mac平台)
 
+* 其他
+  - [A List of Foundational JavaScript Tools](https://www.codefellows.org/blog/a-list-of-foundational-javascript-tools)
 
 
